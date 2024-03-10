@@ -16,10 +16,10 @@ Clone the repository
 git clone https://github.com/kimfom01/minio-object-storage.git
 ```
 
-On the terminal, navigate to `object-storage` directory
+On the terminal, navigate to `minio-object-storage` directory
 
 ```sh
-cd object-storage
+cd minio-object-storage
 ```
 
 Run the following
