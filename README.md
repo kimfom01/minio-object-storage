@@ -13,7 +13,7 @@ This is a docker compose config for locally hosted [minio](https://min.io) objec
 Clone the repository
 
 ```sh
-git clone https://github.com/kimfom01/object-storage.git
+git clone https://github.com/kimfom01/minio-object-storage.git
 ```
 
 On the terminal, navigate to `object-storage` directory
