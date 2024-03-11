@@ -2,6 +2,7 @@ version: "3.8"
 services:
   minio:
     image: minio/minio
+    restart: always
     volumes:
       - ~/data/:/data/
     ports:
